@@ -1,4 +1,4 @@
-#Aprendiendo Git
+# Aprendiendo Git y GitHub
 
 * Configuración inicial
 * Comandos Básicos
