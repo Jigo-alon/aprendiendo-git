@@ -4,4 +4,6 @@
 * Comandos Básicos
 * Creando repositorios
 * Detectando y confirmando cambios
-* Creando y Configurando Repositorio en Github
+* Creando y Configurando Repositorio en GitHub
+
+* Cambiando desde GitHub
